@@ -1,4 +1,4 @@
-# Credit Financing/ Credit Landing
+# Credit Financing/ Credit Landing/ Credit Default
 
 Dataset: [All Lending Club Loan Data](https://www.kaggle.com/wordsforthewise/lending-club)
 
